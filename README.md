@@ -8,7 +8,8 @@ Since air is the most important substance on earth and it affects our health, sk
 
 ## Datasets
 - Sources:
-   - Bahrain Air Quality by Month & Station: [https://www.data.gov.bh/explore/dataset/02-air-quality-by-month-station/table/?disjunctive.month&disjunctive.indicator&sort=-n]
+   - Bahrain Air Quality by Month & Station:
+   - [https://www.data.gov.bh/explore]
    - World Wide Air Quality Index: [https://www.aqi.in]
 - Column/Features:
   - Station: Name or Number of city where the measurment was taken
@@ -19,11 +20,11 @@ Since air is the most important substance on earth and it affects our health, sk
 	- AQI: Air Quality Index
 	- SO2 & NO2:  Other measured pollutants
 ## Analysis
- 1- Etracting useful data: the World Wide Air Quality Index table was created manually 
+ - Etracting useful data: the World Wide Air Quality Index table was created manually 
     by collecting all information from [https://www.aqi.in]
- 2- Data cleaning: Handle missing values, standardize units, check for anomalies
- 3- Exploratory Data Analysis: Plot temporal trends, compare stations, 
- 4- Visiulization: 
+ - Data cleaning: Handle missing values, standardize units, check for anomalies
+ - Exploratory Data Analysis: Plot temporal trends, compare stations, 
+ - Visiulization: 
  
 ## Results
 - 97 countries around the world their air quality is Good, 47 are Moderate, 3 are Poor, and only 1 is Unhealty
