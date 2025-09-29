@@ -25,6 +25,7 @@ Since air is the most important substance on earth and it affects our health, sk
  - Data cleaning: Handle missing values, standardize units, check for anomalies
  - Exploratory Data Analysis: Plot temporal trends, compare stations, 
 ## Visiulization
+<img src="images/pm_plot.png" alt="PM2.5 Trends" width="600"/>
  
 ## Results
 - 97 countries around the world their air quality is Good, 47 are Moderate, 3 are Poor, and only 1 is Unhealty
