@@ -13,12 +13,12 @@ Since air is the most important substance on earth and it affects our health, sk
    - World Wide Air Quality Index: [https://www.aqi.in]
 - Column/Features:
   - Station: Name or Number of city where the measurment was taken
-	- Year: Measurement date
+  - Year: Measurement date
   - Indicator: Annual average of air quality idicators
   - City type: Idustrial city,close to industial city, or urban city 
-	- PM: Particulate matter ≤10µm
-	- AQI: Air Quality Index
-	- SO2 & NO2:  Other measured pollutants
+  - PM: Particulate matter ≤10µm
+  - AQI: Air Quality Index
+  -  SO2 & NO2:  Other measured pollutants
 ## Analysis
  - Etracting useful data: the World Wide Air Quality Index table was created manually 
     by collecting all information from [https://www.aqi.in]
