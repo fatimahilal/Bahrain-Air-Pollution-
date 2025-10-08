@@ -30,9 +30,11 @@ Since air is the most important substance on earth and it affects our health, sk
   
 
 - Gulf Countries Air Quality
+  
   <img width="579" height="430" alt="image" src="https://github.com/user-attachments/assets/04c67524-4b84-4219-9e12-b9634a76af46" />
 
 - Bahrain Site-Specific AQI
+  
   <img width="731" height="468" alt="image" src="https://github.com/user-attachments/assets/9f8b756b-c880-4ff9-b701-5689d31eea2c" />
 
 - Askar's AQI
