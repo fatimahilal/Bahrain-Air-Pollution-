@@ -38,15 +38,19 @@ Since air is the most important substance on earth and it affects our health, sk
   <img width="731" height="468" alt="image" src="https://github.com/user-attachments/assets/9f8b756b-c880-4ff9-b701-5689d31eea2c" />
 
 - Askar's AQI
+  
   <img width="536" height="334" alt="image" src="https://github.com/user-attachments/assets/3ea5b5e8-4a2d-4cad-aafc-5f645a986ddf" />
 
 - Sitra's AQI
+  
   <img width="650" height="513" alt="image" src="https://github.com/user-attachments/assets/e1033c9f-6af0-4282-9e00-f7a71a793989" />
 
 - Bahrain Fort's AQI
+  
   <img width="560" height="387" alt="image" src="https://github.com/user-attachments/assets/4eeb330a-6a13-4d66-8747-f11105e7be23" />
 
 - Awali AQI
+  
  <img width="454" height="377" alt="image" src="https://github.com/user-attachments/assets/5d778729-1d88-4d06-b2f0-ab19c059fc0a" />
 
 ## Results
