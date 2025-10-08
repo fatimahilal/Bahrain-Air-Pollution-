@@ -27,6 +27,7 @@ Since air is the most important substance on earth and it affects our health, sk
 ## Visiulization
 - Global Air quality Distribution Status
   <img width="826" height="477" alt="image" src="https://github.com/user-attachments/assets/004adf7b-b503-4e7a-a462-fe19ecaa93ef" />
+  
 
 - Gulf Countries Air Quality
   <img width="579" height="430" alt="image" src="https://github.com/user-attachments/assets/04c67524-4b84-4219-9e12-b9634a76af46" />
